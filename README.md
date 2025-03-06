@@ -1,6 +1,6 @@
-# notabilia
+  # Notabilia
 
-A fully functional note taking app.
+A fully functional note taking app. It icnlude language switching, securing notes and folders with passwords categorizing notes and local databse backup.
 
 ## Getting Started
 
